@@ -1,0 +1,1 @@
+D:\SoftUni\OOP Advanced\1. Interface and Abstraction\InterfaceAndAbstractionLab\Car\bin\Debug\Car.exe.config
